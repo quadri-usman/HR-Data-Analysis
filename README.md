@@ -1,4 +1,4 @@
-# Employee Data: Performance of Employee
+# HR Data: Performance of Employee
 ## Introduction
 Human Resources (HR) is the set of people who make the workforce of an organization, business sector, industry, or economy. A human resources (HR) department performs human resource management functions, such as finding, hiring, and supporting new employees. Therefore, HR departments are responsible for such important tasks as reviewing resumes, keeping of employee information, and ensuring a company complies with labour laws and employment standards.
 In this analysis, how employees are paid in relationship with department and job role is to be investigated.
